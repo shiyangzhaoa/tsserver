@@ -3,7 +3,7 @@
 A lite wrapper around tsserver
 
 <p>
-  <img src="https://github.com/shiyangzhaoa/css-modules-to-tailwind/blob/main/typescript.svg" alt="tsserver">
+  <img src="https://github.com/shiyangzhaoa/tsserver/blob/main/typescript.svg" alt="tsserver">
 </p>
 <p>
     <a href="https://www.npmjs.com/package/tsserver-lite"><img src="https://img.shields.io/npm/dm/tsserver-lite?style=flat-square" alt="Total Downloads"></a>
