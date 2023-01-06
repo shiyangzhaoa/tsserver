@@ -8,7 +8,7 @@ A lite wrapper around tsserver
 <p>
     <a href="https://www.npmjs.com/package/tsserver-lite"><img src="https://img.shields.io/npm/dm/tsserver-lite?style=flat-square" alt="Total Downloads"></a>
     <a href="https://www.npmjs.com/package/tsserver-lite"><img src="https://img.shields.io/bundlephobia/minzip/tsserver-lite?style=flat-square" alt="Latest Release"></a>
-    <a href="https://github.com/shiyangzhaoa/tsserver/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/tsserver-lite?style=flat-square" alt="License"></a>
+    <a href="https://github.com/shiyangzhaoa/tsserver/blob/main/LICENSE"><img src="https://shields.io/github/license/shiyangzhaoa/tsserver?style=flat-square" alt="License"></a>
 </p>
 
 ## Install
