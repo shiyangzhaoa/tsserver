@@ -1,4 +1,4 @@
-# Tsserver wrapper
+# TSServer wrapper
 
 A lite wrapper around tsserver
 
